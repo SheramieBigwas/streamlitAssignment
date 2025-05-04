@@ -1,8 +1,9 @@
-Item 2
+Item 3
 
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item2/item2/Screenshot%20(146).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item2/item2/Screenshot%20(147).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item2/item2/Screenshot%20(148).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item2/item2/Screenshot%20(149).png)
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item3/item3/Screenshot%20(150).png)
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item3/item3/Screenshot%20(151).png)
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item3/item3/Screenshot%20(152).png)
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item3/item3/Screenshot%20(153).png)
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item3/item3/Screenshot%20(154).png)
 
-This Streamlit app allows users to upload a CSV file, view the raw data, and filter the dataset by a selected column. It ensures the file contains at least 5 columns and interactively displays filtered results.
+This Streamlit app organizes content about Data Warehousing and Enterprise Data Management using sidebar filters, tabs, columns, and expandable sections. It allows users to select a topic, explore key concepts interactively, and view detailed explanations based on their choices.
