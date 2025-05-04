@@ -1,13 +1,9 @@
-Item 4
+Item 6
 
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item4/item4/Screenshot%20(155).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item4/item4/Screenshot%20(156).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item4/item4/Screenshot%20(157).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item4/item4/Screenshot%20(158).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item4/item4/Screenshot%20(159).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item4/item4/Screenshot%20(160).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item4/item4/Screenshot%20(161).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item4/item4/Screenshot%20(162).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item4/item4/Screenshot%20(163).png)
 
-This Streamlit app fetches real-time COVID-19 statistics from a public API, parses the JSON response, and presents key data for a selected country. It visualizes the results using five chart types—bar, line, area, pie, and a styled table—alongside interactive metrics.
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item6/item6/Screenshot%20(171).png)
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item6/item6/Screenshot%20(172).png)
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item6/item6/Screenshot%20(173).png)
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item6/item6/snapshot_20250504_182355.png)
+
+This Streamlit app captures real-time video from the webcam, applies a Canny edge detection filter with adjustable thresholds, and displays the processed frames live. Users can toggle filters and take snapshots directly from the interface.
