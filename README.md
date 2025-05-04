@@ -1,5 +1,8 @@
-Item 1
+Item 2
 
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item1/item1/Screenshot%20(144).png)
-![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item1/item1/Screenshot%20(145).png)
-This Streamlit app collects a user's name and age through text and number input fields, then displays a personalized greeting and a fun fact about when they'll turn 100. It uses st.title, st.header, and st.write to structure and display the content interactively.
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item2/item2/Screenshot%20(146).png)
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item2/item2/Screenshot%20(147).png)
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item2/item2/Screenshot%20(148).png)
+![image alt](https://github.com/SheramieBigwas/streamlitAssignment/blob/item2/item2/Screenshot%20(149).png)
+
+This Streamlit app allows users to upload a CSV file, view the raw data, and filter the dataset by a selected column. It ensures the file contains at least 5 columns and interactively displays filtered results.
